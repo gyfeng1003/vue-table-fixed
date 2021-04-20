@@ -1,5 +1,5 @@
 // 统一使用
-const iScollProbe = require('./iscroll-probe');
+const IScroll = require('./iscroll-probe');
 let scroller = null;
 let Selector = "";
 export function createIScroller(selector) {
